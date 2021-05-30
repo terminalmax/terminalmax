@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Itch.io page!](https://terminalmax.itch.io/)
+
 <!--
 **terminalmax/terminalmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
